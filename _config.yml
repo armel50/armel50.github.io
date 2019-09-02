@@ -1,11 +1,11 @@
 # Site settings
-author: Cloe Kouadjo
-title: 
+author: CLOE KOUADJO
+title: CK
 header-img: img/home-bg.png
 email: armelfli50@gmail.com
-copyright_name: Cloe Kouadjo
+copyright_name: CLOE KOUADJO
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Full-Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  armel50
