@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deploy a Single Page Application on Heroku"
-date:       2019-12-06 21:38:14 +0000
+date:       2019-12-06 16:38:15 -0500
 permalink:  deploy_a_single_page_application_on_heroku
 ---
 
