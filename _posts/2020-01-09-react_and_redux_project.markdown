@@ -24,12 +24,12 @@ Fortunately, after hours and hours of practice it all started to click. Really, 
 Redux was purposely designed for state management, but such  framework is not required to learn React. Redux will mostly come into play as React project gets bigger and bigger.  <br>
 With that being said, let's dive into my final project. 
 ### Project: <a href='https://www.youtube.com/watch?v=j78QL355IkA&feature=youtu.be'>U_Shop</a>
-##### Description
+#### Description
 U_Shop is a simple representation of e-commerce sites. From the demo, one can agree that the design is simple but still attractive. Such design was made possible through Semantic UI; a modern front-end development framework, powered by jQuery. <br>
 Also, as part of the Requirements, U_Shop makes asynchronous requests to a Ruby Api designed from scratch to retrieve data.<br> 
 While this app is Single Page App (SPA), U_Shop makes use of React-Router to make it seem that it has multiple pages.<br> 
 If you are interested in how this app really works, you can always clone the repo through <a href='https://github.com/armel50/u_shop'>GitHub.</a> <br>
-##### Purpose
+#### Purpose
 U_Shop was designed to provide the user with a much more enjoyable experience shoping online. Considering how fast this app reacts to changes, and also some funny contents designed to avoid users' frustration, U_Shop met its goal. 
 <br> <br> 
 ### Thanks for reading this blog ! 
